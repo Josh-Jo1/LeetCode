@@ -1,4 +1,5 @@
 # https://leetcode.com/problems/happy-number/
+# Runtime: 28 ms -> beats 95.22% of users with Python3
 
 class Solution:
     def numToDigits(self, n) -> list[int]:
@@ -9,6 +10,7 @@ class Solution:
             num //= 10
         digits.reverse()
         return digits
+    # end numToDigits
 
     def isHappy(self, n: int) -> bool:
         num = n

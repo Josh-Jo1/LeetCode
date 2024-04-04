@@ -1,4 +1,5 @@
 # https://leetcode.com/problems/isomorphic-strings/
+# Runtime: 33 ms -> beats 94.41% of users with Python3
 
 class Solution:
     # Runtime: O(n)

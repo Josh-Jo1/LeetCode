@@ -1,4 +1,5 @@
 # https://leetcode.com/problems/third-maximum-number/
+# Runtime: 50 ms -> beats 66.93% of users with Python3
 
 class Solution:
     # Runtime: O(n)

@@ -1,4 +1,5 @@
 # https://leetcode.com/problems/roman-to-integer/
+# Runtime: 39 ms -> beats 89.37% of users with Python3
 
 class Solution:
     converter = {

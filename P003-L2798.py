@@ -1,4 +1,5 @@
 # https://leetcode.com/problems/number-of-employees-who-met-the-target/
+# Runtime: 38 ms -> beats 89.47% of users with Python3
 
 class Solution:
     # Runtime: O(n)
