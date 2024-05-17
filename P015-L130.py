@@ -3,7 +3,7 @@
 
 class Solution:
     # Runtime: O(n*m)
-    def dfs(self, board: list[list[str]], r: int, c: int) -> None:
+    def bfs(self, board: list[list[str]], r: int, c: int) -> None:
         queue = [(r, c)]
         while len(queue) != 0:
             currR, currC = queue.pop(0)
